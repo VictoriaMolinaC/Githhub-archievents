@@ -1,4 +1,4 @@
-# Mis logros de GitHub 🏆
+# Mis logros de GitHub 
 
 Insignias que he obtenido en GitHub y lo que significa cada una.
 
@@ -12,9 +12,9 @@ Insignias que he obtenido en GitHub y lo que significa cada una.
 
 ## Insignias
 
-![Pair Extraordinaire](achievements/logropair.png)
-
 ![Mis logros de GitHub](achievements/logrosgithub.png)
+
+![Pair Extraordinaire](achievements/logropair.png)
 
 ---
 
